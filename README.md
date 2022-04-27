@@ -18,9 +18,9 @@
   
     <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*9Lrb9buFeZdBHYXNMKDlRQ.png"/>
   
-   <h5>Login Page</h5>
 
-    <img width="600" align="right"  src="https://miro.medium.com/max/1400/1*9rC8jf_WXIIBZy0BJBerLQ.png" alt="Coding"/>
+
+    
    <h5>Subscription Page</h5> -->
     <img width="600px" align="right" src="https://miro.medium.com/max/1400/1*jkzX6GA6veBjDu6zS5BCrQ.png" alt=""/>
    <h5>Cart Page</h5>
