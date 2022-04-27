@@ -15,15 +15,16 @@
    <p>Before sharing our experience we want to share some snippets of our project. </p>
   
     <h5>Home Page</h5>
-    <img align="right" alt="Coding" width="400" src=https://miro.medium.com/max/1400/1*9Lrb9buFeZdBHYXNMKDlRQ.png"/>
+  
+    <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*9Lrb9buFeZdBHYXNMKDlRQ.png"/>
   
    <h5>Login Page</h5>
 
-    <img width="600"  src="https://miro.medium.com/max/1400/1*9rC8jf_WXIIBZy0BJBerLQ.png" alt=""/>
+    <img width="600" align="right"  src="https://miro.medium.com/max/1400/1*9rC8jf_WXIIBZy0BJBerLQ.png" alt="Coding"/>
    <h5>Subscription Page</h5> -->
-    <img width="600px" src="https://miro.medium.com/max/1400/1*jkzX6GA6veBjDu6zS5BCrQ.png" alt=""/>
+    <img width="600px" align="right" src="https://miro.medium.com/max/1400/1*jkzX6GA6veBjDu6zS5BCrQ.png" alt=""/>
    <h5>Cart Page
 
     </h5>
-    <img width="600px"  src="https://miro.medium.com/max/1400/1*cHhniVlcVZyR1fzMZXGLYQ.png" alt=""/>
+    <img width="600px" align="right"  src="https://miro.medium.com/max/1400/1*cHhniVlcVZyR1fzMZXGLYQ.png" alt=""/>
    <a href="https://revv-clone.netlify.app/index.html">netlify Link</a>
