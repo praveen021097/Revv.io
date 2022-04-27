@@ -21,7 +21,7 @@
 
 
     
-   <h5>Subscription Page</h5> -->
+   <h5>Subscription Page</h5> 
     <img width="600px" align="right" src="https://miro.medium.com/max/1400/1*jkzX6GA6veBjDu6zS5BCrQ.png" alt=""/>
    <h5>Cart Page</h5>
     <img width="600px" align="right"  src="https://miro.medium.com/max/1400/1*cHhniVlcVZyR1fzMZXGLYQ.png" alt=""/>
